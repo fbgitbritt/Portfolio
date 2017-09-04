@@ -19,7 +19,7 @@ This is my Storycast
 
 This is my Facebook Filter
 
-![FB FILTER](https://github.com/fbgitbritt/images/blob/master/techstart%20filter.jpg)
+[fb filter]: https://github.com/fbgitbritt/images/blob/master/techstart%20filter.jpg 
 
 ***
 
