@@ -4,6 +4,8 @@ This is my 360 image
 
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/gitbritt/360-world-copy" ></script>
 
+<hr>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
