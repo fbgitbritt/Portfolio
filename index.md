@@ -3,7 +3,7 @@
 
 ### 360
 
-This is my 360 image
+> This is my 360 image
 
 <script src="//vizor.io/scripts/embed.js" data-vizorurl="//vizor.io/embed/gitbritt/360-world-copy" ></script>
 
