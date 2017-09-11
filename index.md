@@ -17,7 +17,7 @@ This is my Storycast
 
 ### Camera Effects
 
-![This is my Facebook Filter](techstart filter.jpg?raw=true "Optional Title")
+![This is my Facebook Filter](techstartfilter.jpg?raw=true "Optional Title")
 
 ***
 
